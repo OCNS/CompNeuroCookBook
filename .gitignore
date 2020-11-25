@@ -1,2 +1,3 @@
-build/
-.venv
+.venv/
+source/_build
+tags.*

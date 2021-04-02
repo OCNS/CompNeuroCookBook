@@ -1,1 +1,2 @@
-# Python guidelines
+(languages:python)=
+# Python

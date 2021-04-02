@@ -2,3 +2,14 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 #
 - file: index
+  numbered: false
+
+- part: General guidelines
+  chapters:
+    - file: ./General/index
+    - file: ./General/community
+    - file: ./General/licensing
+
+- part: Programming languages
+  chapters:
+    - file: ./Python/index

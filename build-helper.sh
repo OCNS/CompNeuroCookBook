@@ -77,6 +77,11 @@ function publish_book() {
     ghp-import -n -p -f ./source/_build/html
 }
 
+function clean_book() {
+    enable_virtenv
+    echo "Cleaning book."
+    jupyter-book clean ./source
+}
 
 function usage() {
     echo "$0: helper script to work with docs locally"
@@ -86,6 +91,7 @@ function usage() {
     echo "-c: create new virtual environment in $VENV and install packages."
     echo "-b: build book"
     echo "-p: publish book to GitHub pages (requires commit access to repo)"
+    echo "-X: clean book"
 }
 
 if [ $# -lt 1 ]
@@ -95,7 +101,7 @@ then
 fi
 
 # parse options
-while getopts "bpch" OPTION
+while getopts "bpchX" OPTION
 do
     case $OPTION in
         b)
@@ -108,6 +114,10 @@ do
             ;;
         c)
             create_virtenv
+            exit 0
+            ;;
+        X)
+            clean_book
             exit 0
             ;;
         h)

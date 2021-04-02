@@ -2,8 +2,12 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Software Development Guidelines
-author: INCF/OCNS Software SIG
-logo: images/ocns_logo.png # To be added
+author: INCF/OCNS Software Working Group
+logo: ""
+
+# List bibtex source file
+bibtex_bibfiles:
+  - Reference/references.bib
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -19,7 +23,7 @@ latex:
 repository:
   url: https://github.com/OCNS/SoftwareDevelopmentGuidelines  # Online location of your book
   path_to_book: source
-  branch: master  # Which branch of the repository should be used when creating links (optional)
+  branch: main  # Which branch of the repository should be used when creating links (optional)
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
@@ -31,8 +35,21 @@ html:
   google_analytics_id: "" # To be added
   home_page_in_navbar: false
 
-
 # Extra parsing options
 parse:
-  myst_extended_syntax: true
+  myst_enable_extensions:  # default extensions to enable in the myst parser. See https://myst-parser.readthedocs.io/en/latest/using/syntax-optional.html
+    - amsmath
+    - colon_fence
+    - deflist
+    - dollarmath
+    - html_admonition
+    - html_image
+    - linkify
+    - replacements
+    - smartquotes
+    - substitution
+  myst_url_schemes          : [mailto, http, https]
 
+sphinx:
+  config:
+    pygments_style: "tango"

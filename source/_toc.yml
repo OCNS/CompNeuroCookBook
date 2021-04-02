@@ -9,6 +9,7 @@
     - file: ./General/licensing
     - file: ./General/community
     - file: ./General/documentation
+    - file: ./General/development
 
 - part: Programming languages
   chapters:

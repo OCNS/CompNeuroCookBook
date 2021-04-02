@@ -6,7 +6,7 @@ It is important to choose the right license to ensure that the software is acces
 (general:licensing:must)=
 ## Must items
 
-(general:licensing:must:1)=
+(general:licensing:must:foss)=
 ### The software **must** be licensed under a FOSS license.
 
 A FOSS license is necessary to permit unencumbered usage, development, study, and dissemination of software and tools.
@@ -21,7 +21,7 @@ References:
 (general:licensing:should)=
 ## Should items
 
-(general:licensing:should:1)=
+(general:licensing:should:includecopy)=
 ### The software **should** include a copy of the license.
 
 While not all licenses require the license text to be included in the software, quite a few of them do.

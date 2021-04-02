@@ -1,5 +1,7 @@
 (landing)=
-# INCF/OCNS Software Development Guidelines
+# Welcome
+
+Welcome to the INCF/OCNS Software Working Group's software development guidelines.
 
 This guidelines summarise current best practices in software development for use as reference by the neuroscience research community.
 

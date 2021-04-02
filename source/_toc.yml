@@ -6,9 +6,8 @@
 
 - part: General guidelines
   chapters:
-    - file: ./General/index
-    - file: ./General/community
     - file: ./General/licensing
+    - file: ./General/community
 
 - part: Programming languages
   chapters:

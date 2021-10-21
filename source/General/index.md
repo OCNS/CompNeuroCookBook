@@ -92,3 +92,16 @@ The review template can be found on the next page.
 
   While not all licenses require the license text to be included in the software, quite a few of them do.
   It is therefore suggested to include a copy of the license text in the released artefacts.
+
+## Citing
+
+- Make your software easily citable to nudge scientists into actually citing your work.
+  Generate DOIs for software, libraries, datasets, models is possible with:
+
+- [Zenodo](https://zenodo.org/)
+- [RRID](https://scicrunch.org/browse/resourcedashboard)
+- [Journal of Open Source Software](https://joss.theoj.org) - Requires a paper, but can be short.
+
+- Don't forget to advertise your DOIs. Put them front and center on your documentation, readme, and if you're using Github:
+
+- [Github Citation file](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)

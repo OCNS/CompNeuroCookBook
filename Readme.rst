@@ -1,7 +1,7 @@
-OCNS Software Review
+CompNeuro Cook book
 ---------------------
 
-This repository is used by the OCNS Software Special Interest Group (SIG) to document current best practices in software development that the community can use to review their tools.
+This repository is used by the OCNS Software Special Interest Group (SIG) to create a new community resource of commonly used code snippets. These can be anything at all that community members use frequently.
 
 All content here is licensed under the `CC-By license <https://creativecommons.org/licenses/by/4.0/>`__.
 

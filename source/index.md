@@ -1,8 +1,9 @@
 (landing)=
-# Welcome to the INCF/OCNS Software Development Guidelines
+# Welcome to the INCF/OCNS Comp Neuro cook book
 
-This documentation aims to summarise current best practices in software development for reference by the computational neuroscience community.
-It will include lists of suggestions that tools should follow, along with review templates that users and developers may use to check their tools against.
+This is a location for the computational neuroscience community to share commonly used methods/code snippets with each other.
+They do not have to be, but may be, simulator specific.
+Anything that you use often that you think others may also find useful can go here.
 
 This resource is maintained by the INCF/OCNS [Software Working Group (WG)](https://ocns.github.io/SoftwareWG/).
 You can learn more about the working group and our activities on our website at https://ocns.github.io/SoftwareWG/.
@@ -11,4 +12,4 @@ Please introduce yourself to the community [here](https://github.com/OCNS/Softwa
 
 The working group is shared between the [International Neuroinformatics Coordinating Facility (INCF)](https://www.incf.org/) and the [Organization for Computational Neurosciences (OCNS)](https://www.cnsorg.org).
 
-Please use the issue tracker on the [GitHub repository](https://github.com/OCNS/SoftwareDevelopmentGuidelines/issues) to provide any comments, suggestions, and feedback.
+Please use the issue tracker on the [GitHub repository](https://github.com/OCNS/CompNeuroCookBook/issues) to provide any comments, suggestions, and feedback.

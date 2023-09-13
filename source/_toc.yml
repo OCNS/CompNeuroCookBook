@@ -1,5 +1,9 @@
 format: jb-book
 root: index
-chapters:
-  - file: Contributing.md
-  - file: 00_gnuplot.md
+parts:
+  - caption: Contributing
+    chapters:
+      - file: Contributing.md
+  - caption: Command line
+    chapters:
+      - file: 00_gnuplot.md

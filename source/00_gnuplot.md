@@ -1,5 +1,5 @@
-(gnuplot:lines)=
-# Plotting on the command line with GNUPlot
+(cli:gnuplot)=
+# Plotting with GNUPlot
 
 When dealing with data either from simulations or from experiments, it's often useful to get quick previews without having to write complete Python scripts using numpy/matplotlib.
 [GNUPlot](http://www.gnuplot.info/) is a command line plotting tool that makes this very easy.

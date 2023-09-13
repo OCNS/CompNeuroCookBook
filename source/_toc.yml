@@ -2,3 +2,4 @@ format: jb-book
 root: index
 chapters:
   - file: Contributing.md
+  - file: 00_gnuplot.md

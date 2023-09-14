@@ -29,6 +29,16 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "brenthuisman",
+      "name": "Brent Huisman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2943652?v=4",
+      "profile": "http://brent.huisman.pl",
+      "contributions": [
+        "content",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,

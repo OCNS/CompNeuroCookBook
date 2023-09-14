@@ -1,7 +1,7 @@
 # CompNeuro Cook book
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository is used by the OCNS Software Special Interest Group (SIG) to create a new community resource of commonly used code snippets. These can be anything at all that community members use frequently.
@@ -21,6 +21,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://www.shailesh-appukuttan.com/"><img src="https://avatars.githubusercontent.com/u/24866517?v=4?s=100" width="100px;" alt="appukuttan-shailesh"/><br /><sub><b>appukuttan-shailesh</b></sub></a><br /><a href="#infra-appukuttan-shailesh" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-appukuttan-shailesh" title="Maintenance">🚧</a> <a href="#projectManagement-appukuttan-shailesh" title="Project Management">📆</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/moscraciunxxx"><img src="https://avatars.githubusercontent.com/u/30236883?v=4?s=100" width="100px;" alt="moscraciunxxx"/><br /><sub><b>moscraciunxxx</b></sub></a><br /><a href="https://github.com/OCNS/CompNeuroCookBook/pulls?q=is%3Apr+reviewed-by%3Amoscraciunxxx" title="Reviewed Pull Requests">👀</a></td>
     </tr>
   </tbody>
   <tfoot>

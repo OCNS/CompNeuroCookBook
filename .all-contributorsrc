@@ -1,5 +1,5 @@
 {
-  "projectName": "SoftwareDevelopmentGuidelines",
+  "projectName": "CompNeuroCookBook",
   "projectOwner": "OCNS",
   "repoType": "github",
   "repoHost": "https://github.com",
@@ -9,7 +9,20 @@
   "imageSize": 100,
   "commit": true,
   "commitConvention": "angular",
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "appukuttan-shailesh",
+      "name": "appukuttan-shailesh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24866517?v=4",
+      "profile": "https://www.shailesh-appukuttan.com/",
+      "contributions": [
+        "infra",
+        "maintenance",
+        "projectManagement"
+      ]
+    }
+  ],
   "contributorsPerLine": 7,
-  "linkToUsage": true
+  "linkToUsage": true,
+  "commitType": "docs"
 }

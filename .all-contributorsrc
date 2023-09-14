@@ -29,6 +29,18 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "sanjayankur31",
+      "name": "Ankur Sinha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102575?v=4",
+      "profile": "https://ankursinha.in/",
+      "contributions": [
+        "review",
+        "content",
+        "doc",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,

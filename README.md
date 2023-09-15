@@ -1,7 +1,7 @@
 # CompNeuro Cook book
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This repository is used by the OCNS Software Special Interest Group (SIG) to create a new community resource of commonly used code snippets. These can be anything at all that community members use frequently.
@@ -24,6 +24,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/moscraciunxxx"><img src="https://avatars.githubusercontent.com/u/30236883?v=4?s=100" width="100px;" alt="moscraciunxxx"/><br /><sub><b>moscraciunxxx</b></sub></a><br /><a href="https://github.com/OCNS/CompNeuroCookBook/pulls?q=is%3Apr+reviewed-by%3Amoscraciunxxx" title="Reviewed Pull Requests">👀</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://ankursinha.in/"><img src="https://avatars.githubusercontent.com/u/102575?v=4?s=100" width="100px;" alt="Ankur Sinha"/><br /><sub><b>Ankur Sinha</b></sub></a><br /><a href="https://github.com/OCNS/CompNeuroCookBook/pulls?q=is%3Apr+reviewed-by%3Asanjayankur31" title="Reviewed Pull Requests">👀</a> <a href="#content-sanjayankur31" title="Content">🖋</a> <a href="https://github.com/OCNS/CompNeuroCookBook/commits?author=sanjayankur31" title="Documentation">📖</a> <a href="#maintenance-sanjayankur31" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://brent.huisman.pl"><img src="https://avatars.githubusercontent.com/u/2943652?v=4?s=100" width="100px;" alt="Brent Huisman"/><br /><sub><b>Brent Huisman</b></sub></a><br /><a href="#content-brenthuisman" title="Content">🖋</a> <a href="https://github.com/OCNS/CompNeuroCookBook/commits?author=brenthuisman" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://marcel.stimberg.info"><img src="https://avatars.githubusercontent.com/u/1381982?v=4?s=100" width="100px;" alt="Marcel Stimberg"/><br /><sub><b>Marcel Stimberg</b></sub></a><br /><a href="https://github.com/OCNS/CompNeuroCookBook/pulls?q=is%3Apr+reviewed-by%3Amstimberg" title="Reviewed Pull Requests">👀</a></td>
     </tr>
   </tbody>
   <tfoot>

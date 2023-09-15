@@ -14,7 +14,7 @@ Requirements/setup:
 
 Let's take a quick look at the contents of the file
 
-```bash
+```console
 $ head 00_gnuplot.dat
 0.0     -0.065  -0.065  -0.065  -0.065  -0.065
 5.0E-5  -0.065  -0.065  -0.065  -0.065  -0.065
@@ -31,8 +31,9 @@ $ head 00_gnuplot.dat
 The first column is time, the rest are membrane potentials for different cells.
 Let us plot the membrane potential for a few cells:
 
-```bash
-$ gnuplot -p -e "set xlabel 'time (s)'; set ylabel 'v (volt)' ; plot '00_gnuplot.dat' using 1:2 with lines title 'cell1'"
+```console
+$ gnuplot -p -e "set xlabel 'time (s)'; set ylabel 'v (volt)' ;\
+    plot '00_gnuplot.dat' using 1:2 with lines title 'cell1'"
 ```
 This will pop up a window like this:
 
@@ -53,8 +54,10 @@ Explanation of options and commands:
 
 
 To plot multiple columns, one can use this:
-```bash
-$ gnuplot -p -e "set xlabel 'time (s)'; set ylabel 'v (volt)' ; plot '00_gnuplot.dat' using 1:2 with lines title 'cell1', '' using 1:3 with lines title 'cell2'"
+```console
+$ gnuplot -p -e "set xlabel 'time (s)'; set ylabel 'v (volt)' ;\
+    plot '00_gnuplot.dat' using 1:2 with lines title 'cell1',\
+    '' using 1:3 with lines title 'cell2'"
 ```
 ```{figure} images/00_gnuplot_2.png
 :alt: screnshot showing a GNUPlot window with two lines plotted
